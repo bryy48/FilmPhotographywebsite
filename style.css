@@ -93,7 +93,6 @@ font-family: 'Righteous', cursive;*/
   transform: scale(1.2); 
 }
 .indextitle {
-	max-width: 100%;
 	position: absolute;
 	bottom: 54%;
 	left: 40%;
