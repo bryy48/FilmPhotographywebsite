@@ -93,9 +93,10 @@ font-family: 'Righteous', cursive;*/
   transform: scale(1.2); 
 }
 .indextitle {
+	max-width: 100%;
 	position: absolute;
-	bottom: 30%;
-	left: 40%;
+	bottom: 60%;
+	left: 42.5%;
 }
 /*------------------------------subpages----------------------------*/
 .topline{
